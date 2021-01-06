@@ -1,5 +1,5 @@
 {
-  "name": "mesilov/bitrix24-php-sdk",
+  "name": "khotkov/bitrix24-php-sdk",
   "description": "A powerful PHP library for the Bitrix24 REST API",
   "keywords": [
     "Bitrix24",
@@ -24,7 +24,7 @@
     "fig/http-message-util": "1.1.*",
     "symfony/http-client": "5.2.*",
     "symfony/event-dispatcher": "5.2.*",
-    "ramsey/uuid": "^3.9.3"
+    "ramsey/uuid": "^4.1.1"
   },
   "require-dev": {
     "monolog/monolog": "2.1.*",
